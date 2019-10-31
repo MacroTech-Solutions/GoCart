@@ -1,6 +1,6 @@
 # GoCart
 
-Created by Arya Tschand, Sai Vedagiri, Joshua Rakovitsky 9/6/19-
+Created by Arya Tschand, Sai Vedagiri, Joshua Rakovitsky
 
 ## What it does
 Our mobile app, web app, and anti-theft system provide an easy, straightforward platform for businesses to incorporate our technology and for consumers to use it.
